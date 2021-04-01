@@ -22,4 +22,6 @@ After you have extracted all files feel free to open your folder in ther termina
 If you have any issues feel free to ask myself (SamuelB) or another staff member of the YGO Omega Discord to help you finish your installation. At the end of the day we just want everyone to be able to play and enjoy the game.
 
 Thanks,
+
+
 SamuelB
